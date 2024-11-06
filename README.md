@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Java Software Engineer currently 
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Mariam ElAgamawy's LinkedIn](https://www.linkedin.com/in/mariamagamawy/)
-- **Email**: [Your Email](mailto:mariam_elagamawy@outlook.com)
+- **Email**: [Mariam ElAgamawy](mailto:mariam_elagamawy@outlook.com)
 
 Feel free to explore my projects here on GitHub, and reach out if you’d like to collaborate or discuss Java, Spring Boot, or software development in general!
 
