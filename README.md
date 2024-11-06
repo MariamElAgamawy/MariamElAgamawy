@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate Java Software Engineer currently working on the BOM Manager project at Silicon Expert. My journey in software development is fueled by a commitment to building efficient, robust, and scalable applications. Here, you’ll find a variety of projects showcasing my expertise in backend development, database management, and system optimization.
 
 ## 👩‍💻 About Me
-- 💼 **Current Position**: Java Software Engineer at Silicon Expert
+- 💼 **Current Position**: Software Engineer at Silicon Expert
 
 - 🔍 **Tech Stack**:
   - **Languages**: Java, SQL
